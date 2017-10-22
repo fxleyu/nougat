@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Nougat</string>
+    <string name="gravity_center">gravity=center</string>
+    <string name="layout_gravity_center">layout_gravity=center</string>
 </resources>
